@@ -1,0 +1,30 @@
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.deps.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\ref\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Common.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Common.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\ref\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.deps.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\ref\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\bin\Debug\net5.0\FoodPal.Notifications.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\ref\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Dto\obj\Debug\net5.0\FoodPal.Notifications.Dto.pdb

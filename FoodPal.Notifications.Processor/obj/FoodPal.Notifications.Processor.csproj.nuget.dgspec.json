@@ -1,0 +1,1057 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Processor\\FoodPal.Notifications.Processor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj",
+        "projectName": "FoodPal.Contracts",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj",
+        "projectName": "FoodPal.Notifications.Application",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj",
+        "projectName": "FoodPal.Notifications.Common",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj",
+        "projectName": "FoodPal.Notifications.Data.Abstractions",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\FoodPal.Notifications.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\FoodPal.Notifications.Data.csproj",
+        "projectName": "FoodPal.Notifications.Data",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\FoodPal.Notifications.Data.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj",
+        "projectName": "FoodPal.Notifications.Domain",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj",
+        "projectName": "FoodPal.Notifications.Dto",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\FoodPal.Notifications.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\FoodPal.Notifications.Mappers.csproj",
+        "projectName": "FoodPal.Notifications.Mappers",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\FoodPal.Notifications.Mappers.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\FoodPal.Notifications.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\FoodPal.Notifications.Messages.csproj",
+        "projectName": "FoodPal.Notifications.Messages",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\FoodPal.Notifications.Messages.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.1.5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Processor\\FoodPal.Notifications.Processor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Processor\\FoodPal.Notifications.Processor.csproj",
+        "projectName": "FoodPal.Notifications.Processor",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Processor\\FoodPal.Notifications.Processor.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Processor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Contracts\\FoodPal.Contracts.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data.Abstractions\\FoodPal.Notifications.Data.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\FoodPal.Notifications.Data.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Data\\FoodPal.Notifications.Data.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\FoodPal.Notifications.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Mappers\\FoodPal.Notifications.Mappers.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\FoodPal.Notifications.Messages.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Messages\\FoodPal.Notifications.Messages.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\FoodPal.Notifications.Service.Email.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\FoodPal.Notifications.Service.Email.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\FoodPal.Notifications.Service.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\FoodPal.Notifications.Service.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\FoodPal.Notifications.Validations.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\FoodPal.Notifications.Validations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.1.5, )"
+            },
+            "MassTransit.Azure.ServiceBus.Core": {
+              "target": "Package",
+              "version": "[7.1.5, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.5, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj",
+        "projectName": "FoodPal.Notifications.Service.Abstractions",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj",
+        "projectName": "FoodPal.Notifications.Service.Email.Abstractions",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\FoodPal.Notifications.Service.Email.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\FoodPal.Notifications.Service.Email.csproj",
+        "projectName": "FoodPal.Notifications.Service.Email",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\FoodPal.Notifications.Service.Email.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Common\\FoodPal.Notifications.Common.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Dto\\FoodPal.Notifications.Dto.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\FoodPal.Notifications.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\FoodPal.Notifications.Service.csproj",
+        "projectName": "FoodPal.Notifications.Service",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\FoodPal.Notifications.Service.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Abstractions\\FoodPal.Notifications.Service.Abstractions.csproj"
+              },
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Service.Email.Abstractions\\FoodPal.Notifications.Service.Email.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\FoodPal.Notifications.Validations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\FoodPal.Notifications.Validations.csproj",
+        "projectName": "FoodPal.Notifications.Validations",
+        "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\FoodPal.Notifications.Validations.csproj",
+        "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Validations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj": {
+                "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Application\\FoodPal.Notifications.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

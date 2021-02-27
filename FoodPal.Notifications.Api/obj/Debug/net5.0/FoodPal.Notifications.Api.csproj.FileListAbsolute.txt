@@ -1,0 +1,116 @@
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.exe
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.deps.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.runtimeconfig.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.runtimeconfig.dev.json
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\ref\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.Azure.ServiceBus.Core.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\NewId.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Common.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Contracts.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Common.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\staticwebassets\FoodPal.Notifications.Api.StaticWebAssets.Manifest.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\staticwebassets\FoodPal.Notifications.Api.StaticWebAssets.xml
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\scopedcss\bundle\FoodPal.Notifications.Api.styles.css
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\ref\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.pdb
+C:\Users\Roxana\Desktop\Endava\Notify\FoodPal.Notifications\FoodPal.Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.genruntimeconfig.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.exe
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.deps.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.runtimeconfig.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.runtimeconfig.dev.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\ref\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Api.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.Azure.ServiceBus.Core.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\NewId.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Contracts.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\bin\Debug\net5.0\FoodPal.Notifications.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\staticwebassets\FoodPal.Notifications.Api.StaticWebAssets.Manifest.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\staticwebassets\FoodPal.Notifications.Api.StaticWebAssets.xml
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\scopedcss\bundle\FoodPal.Notifications.Api.styles.css
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\ref\FoodPal.Notifications.Api.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Notifications\endava-dotnet-Notifications\FoodPal.Notifications.Api\obj\Debug\net5.0\FoodPal.Notifications.Api.genruntimeconfig.cache

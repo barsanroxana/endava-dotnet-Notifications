@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BfTIMIF8FB08TxbxgUyI6QllKl2AWoqUrqgiE//EIsFDiktvHW4vg8ZKem3MWVxgSc48qZlTrQgs8c5kyVdoog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Notifications\\endava-dotnet-Notifications\\FoodPal.Notifications.Domain\\FoodPal.Notifications.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roxana\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
