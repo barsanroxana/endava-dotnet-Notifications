@@ -10,6 +10,8 @@ namespace FoodPal.Notifications.Mappers
         {
             this.CreateMap<INewUserAdded, NewUserAddedCommand>();
             this.CreateMap<NewUserAddedCommand, User>();
+            this.CreateMap<IUserUpdated, UserUpdatedCommand>();
+            this.CreateMap<UserUpdatedCommand, User>();
         }
     }
 }

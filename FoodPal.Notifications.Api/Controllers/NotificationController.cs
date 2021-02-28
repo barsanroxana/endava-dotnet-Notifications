@@ -27,5 +27,13 @@ namespace FoodPal.Notifications.Api.Controllers
 
             return Accepted();
         }
+
+        [HttpPatch("/viewed/{id}")]
+        public async Task<IActionResult> PatchNotification(int id)
+        {
+            await this._publishEndpoint.Publish<INotificationStatusViewedUpdated>(new NotificationDto { Id = id });
+
+            return Accepted();
+        }
     }
 }

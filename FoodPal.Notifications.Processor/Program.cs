@@ -55,7 +55,9 @@ namespace FoodPal.Notifications.Processor
             services.AddScoped<IEmailNotificationService, EmailNotificationService>();
 
             services.AddAutoMapper(typeof(InternalProfile).Assembly);
-            services.AddMediatR(typeof(NewUserAddedHandler).Assembly); 
+            services.AddMediatR(typeof(NewUserAddedHandler).Assembly);
+            services.AddMediatR(typeof(UserUpdatedHandler).Assembly);
+            services.AddMediatR(typeof(NotificationStatusViewedUpdatedHandler).Assembly);
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.Configure<DbSettings>(hostBuilder.Configuration.GetSection("ConnectionStrings"));
@@ -63,6 +65,8 @@ namespace FoodPal.Notifications.Processor
 
             services.AddScoped<NewUserAddedConsumer>();
             services.AddScoped<NewNotificationAddedConsumer>();
+            services.AddScoped<UserUpdatedConsumer>();
+            services.AddScoped<NotificationStatusViewedUpdatedConsumer>();
 
             services.AddMassTransit(configuration => {
                 configuration.UsingAzureServiceBus((context, config) =>
@@ -73,7 +77,9 @@ namespace FoodPal.Notifications.Processor
                     {
                         // register consumer
                         e.Consumer(() => context.GetService<NewUserAddedConsumer>());
-                        e.Consumer(() => context.GetService<NewNotificationAddedConsumer>()); 
+                        e.Consumer(() => context.GetService<NewNotificationAddedConsumer>());
+                        e.Consumer(() => context.GetService<UserUpdatedConsumer>());
+                        e.Consumer(() => context.GetService<NotificationStatusViewedUpdatedConsumer>());
                     });
                 });
             });
