@@ -12,6 +12,7 @@ namespace FoodPal.Notifications.Mappers
             this.CreateMap<NewNotificationAddedCommand, Domain.Notification>();
             this.CreateMap<INotificationStatusViewedUpdated, NotificationStatusViewedUpdatedCommand>();
             this.CreateMap<NotificationStatusViewedUpdatedCommand, Domain.Notification>();
+            this.CreateMap<ErrorNotificationCommand, Domain.Notification>().ReverseMap();
         }
     }
 }

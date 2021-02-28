@@ -17,6 +17,7 @@ using FoodPal.Notifications.Service;
 using FoodPal.Notifications.Service;
 using FoodPal.Notifications.Service.Email;
 using FoodPal.Notifications.Service.Email;
+using FoodPal.Notifications.Processor.BackgroundWorker;
 
 namespace FoodPal.Notifications.Processor
 {
@@ -48,6 +49,7 @@ namespace FoodPal.Notifications.Processor
             services.Configure<NotificationServiceSettings>(hostBuilder.Configuration.GetSection("NotificationServiceSettings"));
 
             services.AddHostedService<MassTransitConsoleHostedService>();
+            services.AddHostedService<NotificationErrorWorker>();
 
             services.AddValidatorsFromAssembly(typeof(InternalValidator<>).Assembly);
 
@@ -58,6 +60,7 @@ namespace FoodPal.Notifications.Processor
             services.AddMediatR(typeof(NewUserAddedHandler).Assembly);
             services.AddMediatR(typeof(UserUpdatedHandler).Assembly);
             services.AddMediatR(typeof(NotificationStatusViewedUpdatedHandler).Assembly);
+            services.AddMediatR(typeof(ErrorNotificationHandler).Assembly);
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.Configure<DbSettings>(hostBuilder.Configuration.GetSection("ConnectionStrings"));
@@ -67,6 +70,8 @@ namespace FoodPal.Notifications.Processor
             services.AddScoped<NewNotificationAddedConsumer>();
             services.AddScoped<UserUpdatedConsumer>();
             services.AddScoped<NotificationStatusViewedUpdatedConsumer>();
+
+            
 
             services.AddMassTransit(configuration => {
                 configuration.UsingAzureServiceBus((context, config) =>
